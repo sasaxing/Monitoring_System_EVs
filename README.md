@@ -1,14 +1,17 @@
 # MonitoringSystemForEVs
+
 ## Hardwares:
-###Microcontroller for experiment:
+####Microcontroller for experiment:
 AT90CAN128
-###Simulation: 
-Protues( with Atmega128)
+####Simulation: 
+Protues( with Atmega128);
+
 simulation.DSN
 
 ## Software:
-###Language: 
-C
+####Language: 
+C;
+
 main.c
-###IDE: 
+####IDE: 
 ATMEL AVR Studio (for ICCVAR)
